@@ -47,7 +47,7 @@ public class AdditionController {
         }
 
         double divideResult = num1 / num2;
-        System.out.println("Harry is a bad boy");
+        System.out.println("Hey Harry");
         System.out.println();
         System.out.println("divideResult:" + divideResult);
 
